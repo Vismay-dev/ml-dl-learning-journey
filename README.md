@@ -2,9 +2,9 @@
 
 ## Overview
 
-This repository serves as a comprehensive collection of first-principles implementations of the major paradigms and algorithms **I've learned** within the field of machine learning, representation learning, and deep learning.
+This repository serves as a comprehensive collection of first-principle implementations of major paradigms and algorithms **I've learned** within the field of machine learning, representation learning, and deep learning.
 
-It's primary objective is to bookmark my progress as I study the seminal text, [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
+Its primary objective is to bookmark my progress as I study the seminal text, [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
 
 ## Progress
 
